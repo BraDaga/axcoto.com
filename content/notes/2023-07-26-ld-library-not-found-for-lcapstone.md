@@ -4,6 +4,11 @@ title = "ld: library not found for -lcapstone"
 draft = false
 
 tags = ["rbenv", "ruby", "devops"]
+
+categories = [
+  "Development",
+  "DevOps",
+]
 +++
 
 When compiling and install Ruby using rbenv
